@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '32832'
     url: http://www.gutenberg.org/2009/agents/32832
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27665#Junior-Achievement
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2008-12-30'
 gutenberg_type: Text
